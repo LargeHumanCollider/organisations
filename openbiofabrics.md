@@ -1,7 +1,7 @@
 ---
-title: The innovation in fashion will be by bacteria: #Biotextile SCOBY & the community
+title: The innovation in fashion will be by bacteria: Biotextile SCOBY & the community
 label: Open BioFabrics
-owner: OpenBiofabrics/openbiofabrics.github.io
+owner: OpenBiofabrics/organisations
 ---
 
-> [Lien vers l'organisation](https://openbiofabrics.github.io/)
+> [Lien vers l'organisation](https://github.com/OpenBioFabrics/organisations)
