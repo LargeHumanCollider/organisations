@@ -4,4 +4,4 @@ label: MultiBaO
 owner: multibao
 ---
 
-> [Lien vers l'organisation](http://www.multibao.org/
+> [Lien vers l'organisation](http://www.multibao.org/)
